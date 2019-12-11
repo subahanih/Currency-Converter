@@ -6,7 +6,7 @@ This project is developed using Java, Springboot2, Vaadin8, Restful Webservice, 
 ![](screenshots/UIscreen.png)
 
 ### REAT API Access Token Generation.
-![](screenshots/AccessToken)
+![](screenshots/AccessToken.png)
 
 ### Fetch data from REAT API using Access Token.
-![](screenshots/FetchData)
+![](screenshots/FetchData.png)
